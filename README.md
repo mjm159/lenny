@@ -9,12 +9,12 @@ recreate it. I'm making to some slight changes, such that it will be controlled
 by a gamepad rather than a wooden mockup with potentiometers.
 
 ##Parts List:
-4 microservos
-1 Arduino
-1 breadboard
-Balsa wood
-Zipties
-1 Logitech PS3-style gamepad
+4 microservos  
+1 Arduino  
+1 breadboard  
+Balsa wood  
+Zipties  
+1 Logitech PS3-style gamepad  
 (To-be completed)
 
 ##Requirements
