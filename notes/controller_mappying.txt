@@ -1,0 +1,31 @@
+Logitech PS3 to pygame.joystick.Joystick mappings
+=================================================
+
+Axes:
+0 - Left Thumbstick - Left(-1.0)/Right(1.0)
+1 - Left Thumbstick - Up(-1.0)/Down(1.0)
+2 - Left Trigger - Open(-1.0)/Closed(1.0)
+3 - Right Thumbstick - Left(-1.0)/Right(1.0)
+4 - Right Thumbstick - Up(-1.0)/Down(1.0)
+5 - Right Trigger - Open(-1.0)/Closed(1.0)
+
+Buttons:
+0 - A
+1 - B
+2 - X
+3 - Y
+4 - Left Bumper
+5 - Right Bumper
+6 - Back
+7 - Start
+8 - [None]
+9 - Left Thumbstick Press
+10 - Right Thumbstick Press
+
+Hat:
+(0,0) - No press
+(0,1) - Up
+(0,-1) - Down
+(1, 0) - Right
+(-1, 0) - Left
+
