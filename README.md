@@ -18,7 +18,7 @@ Zipties
 (To-be completed)
 
 ##Requirements
-[Pygame](http://pygame.org/news.html)
+[Pygame](http://pygame.org/news.html)    
 [Pyserial](http://pyserial.sourceforge.net/index.html)
 
 
