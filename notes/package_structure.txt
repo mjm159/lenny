@@ -1,0 +1,3 @@
+#Package structure
+- arm: where code for the arduino controlling the arm resides
+- pyArmBrain: where the code for the high-level python arm controller resides
