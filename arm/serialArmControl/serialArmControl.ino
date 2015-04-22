@@ -84,6 +84,8 @@ void establishConnection() {
 
 // So that printing boundary info doesn't require 12 separate print statements...
 void boundaryPrint(int x, int y) {
+  // Sends '>x,y' for each servo boundary value
+  Serial.print(">");
   Serial.print(x);
   Serial.print(",");
   Serial.println(y);
